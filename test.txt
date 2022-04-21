@@ -1,2 +1,3 @@
 some text
 newline
+123
